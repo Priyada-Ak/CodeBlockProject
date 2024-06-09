@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604468365 source:d:\muswork\codeblockproject\lab13-3test\main.c
+	<stdio.h>
+	<stdlib.h>
+

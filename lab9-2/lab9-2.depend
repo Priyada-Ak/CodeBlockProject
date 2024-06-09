@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602629995 source:d:\muswork\codeblockproject\lab9-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
